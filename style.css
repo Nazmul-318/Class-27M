@@ -1,0 +1,23 @@
+.carousel-item img{
+    height: 80vh;	
+}
+.boder_top{
+    border-top: 1px solid #10b6de;
+}
+.botton-down{
+	margin-top: 100px;
+}
+.accordion-item{
+    border: none;
+}
+.skil{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.progress{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.footer{	
+	font-size: 12px;
+}
